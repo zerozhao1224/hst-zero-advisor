@@ -1,0 +1,6 @@
+{
+  "name": "《熱血三國M》AI 攻略軍師管理與測試平台",
+  "description": "專為《熱血三國M》（原2008年華義國際代理引進台灣之SLG網頁遊戲改編手遊，大陸上線名稱：《熱血三國(正版復刻)》）打造的 AI 攻略軍師管理系統：包含官方資料庫歸檔、嚴格領域問答測試環境、RAG 檢索與 Discord Bot API 串接。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
